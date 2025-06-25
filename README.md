@@ -40,6 +40,6 @@ mario-luigi/
 git clone https://github.com/seu-usuario/mario-luigi.git
 
 2. Abra o arquivo index.html no navegador para visualizar a página.
-
+```
 
 Feito com 💜 por [Brenda da Conceição Ramos]
